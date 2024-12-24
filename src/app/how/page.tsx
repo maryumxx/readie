@@ -25,12 +25,12 @@ export default function How() {
         educational games, quizzes, and puzzles, designed to make learning
         enjoyable. Kids can engage with storytelling, solve math problems, or
         unleash their creativity through drawing and coloring tools. The content
-        is age-appropriate and adapts to each child’s skill level, helping them
+        is age-appropriate and adapts to each {`child’s`} skill level, helping them
         progress at their own pace. Rewards like badges and points motivate kids
         to keep learning while fostering a sense of achievement. Parents can
-        personalize the app by setting preferences based on their child’s age
+        personalize the app by setting preferences based on their {`child’s`} age
         and educational needs. They can monitor progress through dashboards that
-        provide insights into their child's activities and achievements.
+        provide insights into their {`child's`} activities and achievements.
         Additionally, the app ensures a safe environment by eliminating ads and
         external links, giving parents peace of mind while their children learn
         and play. With its engaging features and focus on education, the app
